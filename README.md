@@ -1,9 +1,10 @@
-## Hi there 👋
-
+## 👾🍀 Hello, World! 👾🍀
 <!--
 **khadimon/khadimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
+https://www.webfx.com/tools/emoji-cheat-sheet/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
