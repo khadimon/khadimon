@@ -16,7 +16,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 - ⚡ Fun fact: ...
 -->
 
-CS graduate from the University of Southern Mississippi, published ML researcher, and former SWE intern at Dell Technologies. My work spans reinforcement learning theory, robotics, full-stack engineering, and systems programming.
+My work spans reinforcement learning theory, robotics, full-stack engineering, and systems programming.
 
 I like building things at the intersection of **AI/ML** and **full-stack web**. Currently exploring federated learning, multi-agent systems, and how to make useful apps with modern tools. 
 
