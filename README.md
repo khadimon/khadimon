@@ -16,11 +16,11 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 - ⚡ Fun fact: ...
 -->
 
-My work spans reinforcement learning theory, robotics, full-stack engineering, and systems programming.
+Researcher, software engineer and robotics enthusiast interested in building intelligent systems that connect computer vision, reinforcement learning, and robotics.
 
-I like building things at the intersection of **AI/ML** and **full-stack web**. Currently exploring federated learning, multi-agent systems, and how to make useful apps with modern tools. 
+Currently exploring Human–Object Interaction (HOI) in computer vision and how visual understanding can support intelligent physical interaction.
 
-When I'm not training models, I'm shipping web apps — or trying to figure out why my last one broke.
+Enjoy working across the stack — from developing learning-based methods to engineering the software systems that bring ideas to life.
 
 ---
 
